@@ -1,0 +1,25 @@
+#loginLayout{
+	-fx-background-color:#f9f7f7;
+}
+#loginLayout TextField{
+	-fx-background-radius:10px;
+}
+#loginLayout PasswordField{
+	-fx-background-radius:10px;
+}
+
+#slideRight{
+	-fx-background-color:#d6e4ec;
+}
+#slideRight Button{
+	-fx-background-radius:50px;
+}
+#statistic{
+	-fx-background-color:#f9f7f7;
+}
+#meals{
+	-fx-background-color:#ffffff;
+}
+#Drink{
+	-fx-background-color:#ffffff;
+}
